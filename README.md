@@ -107,7 +107,7 @@
 
 ## 📌 Featured Projects
 
-### 1) Pasword Strength cehcare
+### 1) Pasword Strength checker
 A Python-based Password Strength Checker that analyzes password security using length validation, uppercase detection, numeric detection, Unicode symbol support, and leaked password detection.
 
 ### 2) Caesar Cipher Encryption & Decryption Tool
