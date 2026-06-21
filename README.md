@@ -134,9 +134,9 @@ A simple Python-based Caesar Cipher implementation developed as part of the Deco
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/saurabh-p-pandey-754923414/)
+- LinkedIn: (https://www.linkedin.com/in/www.linkedin.com/in/saurabh-p-pandey-754923414/)
 - Email: saurabhpandey0924@gmail.com
-- GitHub: [YOUR-USERNAME](https://github.com/saurabhpandey0924@gmail.com)
+- GitHub: (https://github.com/saurabhpandey0924@gmail.com)
 
 
 ---
