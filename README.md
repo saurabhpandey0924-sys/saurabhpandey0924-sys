@@ -95,14 +95,6 @@
 ![EDA](https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge\&logo=databricks\&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6384?style=for-the-badge\&logo=chartdotjs\&logoColor=white)
 
-### Languages
-
-![English](https://img.shields.io/badge/English-1E88E5?style=for-the-badge\&logo=googletranslate\&logoColor=white)
-![Hindi](https://img.shields.io/badge/Hindi-FF5722?style=for-the-badge\&logo=googletranslate\&logoColor=white)
-![Marathi](https://img.shields.io/badge/Marathi-43A047?style=for-the-badge\&logo=googletranslate\&logoColor=white)
-![Gujarati](https://img.shields.io/badge/Gujarati-F9A825?style=for-the-badge\&logo=googletranslate\&logoColor=white)
-
-
 ---
 
 ## 📌 Featured Projects
