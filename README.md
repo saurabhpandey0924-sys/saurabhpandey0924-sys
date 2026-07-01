@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Saurabh Pandey 👋</h1>
-<h3 align="center">Computer science Student • Cybersecurity • Web Developer • Problem Solver</h3>
+<h3 align="center">Computer science Student • Web Developer • Problem Solver</h3>
 
 <p align="center">
-  Building practical projects in cybersecurity, web development, and automation.
+  Building practical projects in web development, and automation.
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-- 🎓 I’m a student passionate about **Cybersecurity, Python, and Web Development**
+- 🎓 I’m a student passionate about ** AI, DSA, Python, and Web Development**
 - 🛡️ Currently building projects related to **phishing awareness, security tools, and automation**
 - 🌱 Currently learning **Flask, JavaScript, Git/GitHub, and cybersecurity fundamentals**
 - 💡 I like creating projects that solve real problems and also look professional
