@@ -14,10 +14,6 @@
   </a>
   <a href="mailto:saurabhpandey0924@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -26,7 +22,7 @@
 
 - 🎓 I’m a student passionate about ** AI, DSA, Python, and Web Development**
 - 🛡️ Currently building projects related to **phishing awareness, security tools, and automation**
-- 🌱 Currently learning **Flask, JavaScript, Git/GitHub, and cybersecurity fundamentals**
+- 🌱 Currently learning **C++, Git/GitHub, and cybersecurity fundamentals**
 - 💡 I like creating projects that solve real problems and also look professional
 - 🎯 Goal: become a strong **Cybersecurity + Development** profile with real projects
 
@@ -48,11 +44,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-### Tools & Platforms
+### Data & Tools
 
 ![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
 
 ---
